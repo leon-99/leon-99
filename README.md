@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 
 <br/>
 <p align="left">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=loen-99&show_icons=true&theme=gruvbox&hide_border=true" />
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=leon-99&show_icons=true&theme=gruvbox&hide_border=true" />
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=leon-99&theme=gruvbox&hide_border=true" />
 </p>
 <br>
-[![Thit Lwin' Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=leon-99&theme=gruvbox)](https://github.com/leon-99)
+[![Leon' Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=leon-99&theme=gruvbox)](https://github.com/leon-99)
