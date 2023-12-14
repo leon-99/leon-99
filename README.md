@@ -22,4 +22,5 @@ Here are some ideas to get you started:
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=leon-99&theme=gruvbox&hide_border=true" />
 </p>
 <br>
+
 [![Leon' Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=leon-99&theme=gruvbox)](https://github.com/leon-99)
